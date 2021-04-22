@@ -1,12 +1,44 @@
-li{font-size: 22px;
+li{font-size: 22px; margin-left: 31px;margin-top: 32px;
 
 }
-h1{ font-size: 30px; color: #3D58A6; border: 5px; border-color: #4AC20E;
+h1{ margin-left: 31px; font-size: 30px; color: #3D58A6; border-color: #4AC20E; margin-top: 50px; padding: 10px;
+  border-style: solid; border-width: 5px;
 
 }
-p{font-size: 22px;
+p{font-size: 22px; margin-left: 31px;margin-top: 30px; width: 932px; height: 58px; color: #3D58A6;
 
 }
-.main{color: #4AC20E;
+footer{margin-top: 105px; margin-left: 500px;
+
+  }
+
+a{margin-left: 31px;
+
+}
+img{margin-left: 30px; margin-top: 70px;
+
+}
+h2{font-size: 25px; color: #3D58A6; text-align: left; opacity: 1px; height: 25px; width: 373px;
+
+}
+.home{color: #4AC20E;
+
+}
+.photo1{width: 343px; height: 180px; margin-top: 20px;
+
+}
+.photo2{margin-left: 90px; width: 240px; height: 181px; margin-top: 20px;
+
+}
+.more{margin-top: 300px;
+
+}
+.blog{margin-top: 15px; color: #3D58A6;
+
+}
+.photos{margin-top: 15px; color: #3D58A6;
+
+}
+.more{margin-top: 20px;
 
 }
