@@ -8,17 +8,18 @@ h1{ margin-left: 31px; font-size: 30px; color: #3D58A6; border-color: #4AC20E; m
 p{font-size: 22px; margin-left: 31px;margin-top: 30px; width: 932px; height: 58px; color: #3D58A6;
 
 }
-footer{margin-top: 105px; margin-left: 500px;
+footer{margin-top: 105px;
 
   }
 
+}
 a{margin-left: 31px;
 
 }
 img{margin-left: 30px; margin-top: 70px;
 
 }
-h2{font-size: 25px; color: #3D58A6; text-align: left; opacity: 1px; height: 25px; width: 373px;
+h2{font-size: 25px; color: #3D58A6; text-align: left; opacity: 1px; height: 25px; width: 373px; text-align: center/left/right;
 
 }
 .home{color: #4AC20E;
